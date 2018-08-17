@@ -191,7 +191,7 @@ plt.show()
 ```
 
 
-![png](output_3_0.png)
+![png](README_images/output_3_0.png)
 
 
 ## Total Fares by City Type
