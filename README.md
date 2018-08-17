@@ -218,7 +218,7 @@ plt.show()
 ```
 
 
-![png](output_5_0.png)
+![png](README_images/output_5_0.png)
 
 
 ## Total Rides by City Type
@@ -244,7 +244,7 @@ plt.show()
 ```
 
 
-![png](output_7_0.png)
+![png](README_images/output_7_0.png)
 
 
 ## Total Drivers by City Type
@@ -271,5 +271,5 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
+![png](README_images/output_9_0.png)
 
